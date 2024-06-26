@@ -57,18 +57,13 @@
 
 ## instructions on input data and ouput.
 
-### Model Development
-
-### Data Preprocessing
-
-## Description
-### Preprocessing the data 
-### Handling missing values
-### Encoding categorical variables.
-
+### Data Preperation
+To prepare the model, I started off by seperating the data frame for testing and training. I did this by splitting x and y. After this step, I split the dataset for testing and training using sklearn; splittting the data created four new variables: x_test, x_train, y_test, y_train. The training set has about 80% of the data while the test set has 20%. 
 ## Model Training
 
-### Machine learning algorithms used (e.g., linear regression, random forest), and the rationale behind choosing these models.
+### Machine learning algorithms used:
+Linear regression: Imported from sklearn, I created a variable, lr, to train the regression model on the x and y train variables. I used this algorithm as it is efficient with the variables in this dataset being linear. I used this model to make a prediction on the training sets. 
+Random forest:
 
 ## Evaluation
 
