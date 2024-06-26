@@ -24,8 +24,7 @@
 
 ### The dataset used in this project contains information on the solubility of various molecules. Key features include molecular descriptors that are essential for the prediction model.
 
-###	•	Source: (Provide the source of the dataset if available)
-###	•	Features: Describe the main features used in the model
+###	•	Source: [here](https://github.com/dkaybee2022/Machine-Learning/blob/main/delaney_solubility_with_descriptors.csv)
 ###	•	Target Variable: Solubility
 
 ## Installation
@@ -47,8 +46,7 @@
 
 ###	1.	Clone the repository:
 
- git clone https://github.com/your-username/molecular-solubility-prediction.git
-cd molecular-solubility-prediction
+ git clone [https://github.com/dkaybee2022/Machine-Learning/blob/main/delaney_solubility_with_descriptors.csv]
 
 
 ##	2.	Run the main script:
