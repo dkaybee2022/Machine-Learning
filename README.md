@@ -89,7 +89,12 @@ I imported mean_square and used the r2_score function.
 <img width="466" alt="image" src="https://github.com/dkaybee2022/Machine-Learning/assets/147632964/0cf535ad-f94f-4d2f-bdd1-a4956f7ed9a7">
 
    
+## Key Findings
 
+	•	Linear Regression: This model performed adequately given the linear nature of the variables in the dataset. However, it may be limited in capturing complex relationships in the data.
+	•	Random Forest: This model provided better performance by leveraging multiple decision trees, which typically leads to improved accuracy and robustness.
+
+Overall, the Random Forest model demonstrated superior performance in predicting molecular solubility compared to Linear Regression, making it a more suitable choice for this task. The visualizations and evaluation metrics clearly indicate the effectiveness of each model, guiding the selection of the best predictive approach for biologists in drug discovery.
 
 ## Contact
 
